@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>5-경기-32-바-4317.jpg</filename>
+	<size>
+		<width>954</width>
+		<height>848</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>667</ymin>
+			<xmax>616</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

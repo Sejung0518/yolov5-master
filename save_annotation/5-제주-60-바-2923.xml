@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>5-제주-60-바-2923.jpg</filename>
+	<size>
+		<width>1110</width>
+		<height>897</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>691</ymin>
+			<xmax>656</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

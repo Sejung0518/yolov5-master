@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>5-경남-15-바-1383.jpg</filename>
+	<size>
+		<width>2888</width>
+		<height>2163</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>681</xmin>
+			<ymin>1038</ymin>
+			<xmax>907</xmax>
+			<ymax>1100</ymax>
+		</bndbox>
+	</object>
+</annotation>

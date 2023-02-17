@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-경기-06-조-7523.jpg</filename>
+	<size>
+		<width>859</width>
+		<height>899</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>657</ymin>
+			<xmax>534</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+</annotation>

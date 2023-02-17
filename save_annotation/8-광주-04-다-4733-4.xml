@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-광주-04-다-4733-4.jpg</filename>
+	<size>
+		<width>1705</width>
+		<height>1552</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>928</xmin>
+			<ymin>803</ymin>
+			<xmax>1128</xmax>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+</annotation>

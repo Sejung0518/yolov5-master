@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>2-48-도-3548.jpg</filename>
+	<size>
+		<width>878</width>
+		<height>842</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>384</xmin>
+			<ymin>573</ymin>
+			<xmax>524</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+</annotation>

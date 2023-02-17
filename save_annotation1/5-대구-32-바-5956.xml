@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>5-대구-32-바-5956.jpg</filename>
+	<size>
+		<width>1348</width>
+		<height>1064</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>871</ymin>
+			<xmax>819</xmax>
+			<ymax>932</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>5-서울-32-아-5415.jpg</filename>
+	<size>
+		<width>1140</width>
+		<height>1015</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>770</ymin>
+			<xmax>651</xmax>
+			<ymax>827</ymax>
+		</bndbox>
+	</object>
+</annotation>

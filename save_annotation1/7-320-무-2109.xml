@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>7-320-무-2109.jpg</filename>
+	<size>
+		<width>1139</width>
+		<height>1025</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>777</ymin>
+			<xmax>642</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+</annotation>

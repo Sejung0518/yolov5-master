@@ -1,0 +1,7 @@
+# dataset.yaml
+train: C:\Users\rt_la\yolov5-master\data\images\train
+test: C:\Users\rt_la\yolov5-master\data\images\test
+val: C:\Users\rt_la\yolov5-master\data\images\val
+
+nc: 4
+names: ["Plate", "Area", "Number", "Symbol"]

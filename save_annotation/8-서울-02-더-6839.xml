@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-서울-02-더-6839.jpg</filename>
+	<size>
+		<width>1185</width>
+		<height>843</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>239</ymin>
+			<xmax>579</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>

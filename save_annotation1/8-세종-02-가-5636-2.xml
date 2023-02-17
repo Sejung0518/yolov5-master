@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-세종-02-가-5636-2.jpg</filename>
+	<size>
+		<width>2415</width>
+		<height>2056</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1886</xmin>
+			<ymin>1550</ymin>
+			<xmax>2061</xmax>
+			<ymax>1740</ymax>
+		</bndbox>
+	</object>
+</annotation>

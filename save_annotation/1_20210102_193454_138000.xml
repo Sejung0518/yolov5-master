@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>1_20210102_193454_138000.jpg</filename>
+	<size>
+		<width>694</width>
+		<height>1373</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>981</ymin>
+			<xmax>427</xmax>
+			<ymax>1081</ymax>
+		</bndbox>
+	</object>
+</annotation>

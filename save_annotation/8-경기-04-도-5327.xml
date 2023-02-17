@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-경기-04-도-5327.jpg</filename>
+	<size>
+		<width>1168</width>
+		<height>734</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>481</xmin>
+			<ymin>121</ymin>
+			<xmax>680</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

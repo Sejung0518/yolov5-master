@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>1-경기-88-가-3260.jpg</filename>
+	<size>
+		<width>1300</width>
+		<height>1030</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>593</xmin>
+			<ymin>711</ymin>
+			<xmax>795</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+</annotation>

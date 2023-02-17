@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>1-경기-92-사-5695.jpg</filename>
+	<size>
+		<width>1097</width>
+		<height>927</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>705</ymin>
+			<xmax>620</xmax>
+			<ymax>798</ymax>
+		</bndbox>
+	</object>
+</annotation>

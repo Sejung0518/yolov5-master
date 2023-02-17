@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>7-131-라-5547.jpg</filename>
+	<size>
+		<width>1037</width>
+		<height>925</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>743</ymin>
+			<xmax>625</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>7-268-너-7663-1.jpg</filename>
+	<size>
+		<width>1347</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>766</ymin>
+			<xmax>585</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+</annotation>

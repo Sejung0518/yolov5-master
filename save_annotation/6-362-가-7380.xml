@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>6-362-가-7380.jpg</filename>
+	<size>
+		<width>1082</width>
+		<height>816</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>576</ymin>
+			<xmax>628</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

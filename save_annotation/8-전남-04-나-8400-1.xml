@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-전남-04-나-8400-1.jpg</filename>
+	<size>
+		<width>1960</width>
+		<height>1798</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>744</xmin>
+			<ymin>569</ymin>
+			<xmax>946</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+	</object>
+</annotation>

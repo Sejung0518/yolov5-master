@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>5-울산-12-바-1084-1.jpg</filename>
+	<size>
+		<width>1843</width>
+		<height>1397</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>736</ymin>
+			<xmax>640</xmax>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+</annotation>

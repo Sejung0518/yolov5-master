@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-경기-04-타-4073.jpg</filename>
+	<size>
+		<width>717</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>144</ymin>
+			<xmax>438</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

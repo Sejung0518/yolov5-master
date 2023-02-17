@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>1-경기-40-노-7010.jpg</filename>
+	<size>
+		<width>1073</width>
+		<height>936</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>673</ymin>
+			<xmax>596</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-울산-14-가-7445.jpg</filename>
+	<size>
+		<width>1620</width>
+		<height>1010</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>456</ymin>
+			<xmax>879</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

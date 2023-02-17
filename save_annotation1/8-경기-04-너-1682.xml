@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-경기-04-너-1682.jpg</filename>
+	<size>
+		<width>1414</width>
+		<height>1213</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>780</xmin>
+			<ymin>240</ymin>
+			<xmax>977</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

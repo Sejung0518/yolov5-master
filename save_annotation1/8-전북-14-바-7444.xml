@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-전북-14-바-7444.jpg</filename>
+	<size>
+		<width>914</width>
+		<height>793</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>614</ymin>
+			<xmax>592</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-부산-04-나-5308-10.jpg</filename>
+	<size>
+		<width>1593</width>
+		<height>1355</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>524</ymin>
+			<xmax>839</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

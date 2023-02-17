@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>6-154-호-1224.jpg</filename>
+	<size>
+		<width>864</width>
+		<height>815</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>574</ymin>
+			<xmax>630</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

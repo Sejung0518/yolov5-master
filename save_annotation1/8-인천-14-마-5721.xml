@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-인천-14-마-5721.jpg</filename>
+	<size>
+		<width>624</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>175</ymin>
+			<xmax>431</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

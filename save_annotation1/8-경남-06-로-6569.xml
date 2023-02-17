@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-경남-06-로-6569.jpg</filename>
+	<size>
+		<width>1069</width>
+		<height>996</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>701</ymin>
+			<xmax>679</xmax>
+			<ymax>820</ymax>
+		</bndbox>
+	</object>
+</annotation>

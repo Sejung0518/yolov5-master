@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+	<filename>8-대전-04-마-7947.jpg</filename>
+	<size>
+		<width>1526</width>
+		<height>1270</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>58</ymin>
+			<xmax>724</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>
